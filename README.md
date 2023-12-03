@@ -1,6 +1,6 @@
-﻿### Đề bài kiểm tra nhóm môn thực hành lập trình hướng đối tượng
+﻿## Đề bài kiểm tra nhóm môn thực hành lập trình hướng đối tượng
 
-#### 1. Thông tin mỗi phòng trọ của nhà trọ gồm có các thông tin:
+### 1. Thông tin mỗi phòng trọ của nhà trọ gồm có các thông tin:
    Mã phòng là một chuỗi bắt đầu bằng ký tự PT và theo sau là 2 chữ số nếu không thỏa thì cho bằng PT00.
    
    Số lượng khách trọ là một số nguyên dương.
@@ -23,7 +23,7 @@
    
    f. Xây dựng phương thức xuất thông tin của mỗi phòng trọ.
 
-#### 2. Thông tin của khu nhà trọ gồm có các thông tin:
+### 2. Thông tin của khu nhà trọ gồm có các thông tin:
    Tên khu nhà trọ là một chuỗi.
    
    Địa chỉ là một chuỗi.
