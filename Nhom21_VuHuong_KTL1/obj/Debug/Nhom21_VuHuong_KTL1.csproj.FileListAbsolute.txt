@@ -1,0 +1,8 @@
+E:\LuuDuLieuSinhVien\2033225898_TruongAnhVu\Nhom21_VuHuong_KTL1\Nhom21_VuHuong_KTL1\bin\Debug\Nhom21_VuHuong_KTL1.exe.config
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\2033225898_TruongAnhVu\Nhom21_VuHuong_KTL1\Nhom21_VuHuong_KTL1\bin\Debug\Nhom21_VuHuong_KTL1.exe.config
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\2033225898_TruongAnhVu\Nhom21_VuHuong_KTL1\Nhom21_VuHuong_KTL1\bin\Debug\Nhom21_VuHuong_KTL1.exe
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\2033225898_TruongAnhVu\Nhom21_VuHuong_KTL1\Nhom21_VuHuong_KTL1\bin\Debug\Nhom21_VuHuong_KTL1.pdb
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\2033225898_TruongAnhVu\Nhom21_VuHuong_KTL1\Nhom21_VuHuong_KTL1\obj\Debug\Nhom21_VuHuong_KTL1.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\2033225898_TruongAnhVu\Nhom21_VuHuong_KTL1\Nhom21_VuHuong_KTL1\obj\Debug\Nhom21_VuHuong_KTL1.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\2033225898_TruongAnhVu\Nhom21_VuHuong_KTL1\Nhom21_VuHuong_KTL1\obj\Debug\Nhom21_VuHuong_KTL1.exe
+C:\Users\admin\OneDrive - Industrial University of HoChiMinh City\Desktop\2033225898_TruongAnhVu\Nhom21_VuHuong_KTL1\Nhom21_VuHuong_KTL1\obj\Debug\Nhom21_VuHuong_KTL1.pdb

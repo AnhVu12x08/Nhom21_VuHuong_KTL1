@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<khutro>
+  <ten>Ten134</ten>
+  <diachi>govap</diachi>
+  <phongs>
+    <phong>
+      <loai>1</loai>
+      <map>PT55</map>
+      <soluong>8</soluong>
+      <sodien>55</sodien>
+      <gia>456.4</gia>
+    </phong>
+    <phong>
+      <loai>0</loai>
+      <map>PT55</map>
+      <soluong>55</soluong>
+      <sodien>55</sodien>
+      <gia>456.4</gia>
+    </phong>
+    <phong>
+      <loai>1</loai>
+      <map>PT55</map>
+      <soluong>3</soluong>
+      <sodien>55</sodien>
+      <gia>456.4</gia>
+    </phong>
+    <phong>
+      <loai>9</loai>
+      <map>PT55</map>
+      <soluong>7</soluong>
+      <sodien>55</sodien>
+      <gia>456.4</gia>
+    </phong>
+  </phongs>
+</khutro>
